@@ -1,0 +1,1027 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Connect.ui.lib.core\\Connect.ui.lib.core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Audible.json.core\\Audible.json.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Audible.json.core\\Audible.json.core.csproj",
+        "projectName": "audiamus.audiible.json.core",
+        "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Audible.json.core\\Audible.json.core.csproj",
+        "packagesPath": "C:\\Users\\Djwar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Audible.json.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Djwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj",
+        "projectName": "audiamus.aux.core",
+        "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj",
+        "packagesPath": "C:\\Users\\Djwar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Djwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin.DialogBox.core\\AuxWin.DialogBox.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin.DialogBox.core\\AuxWin.DialogBox.core.csproj",
+        "projectName": "audiamus.aux.win.dialogbox.core",
+        "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin.DialogBox.core\\AuxWin.DialogBox.core.csproj",
+        "packagesPath": "C:\\Users\\Djwar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin.DialogBox.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Djwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin.lib.core\\AuxWin.lib.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin.lib.core\\AuxWin.lib.core.csproj",
+        "projectName": "audiamus.aux.win.core",
+        "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin.lib.core\\AuxWin.lib.core.csproj",
+        "packagesPath": "C:\\Users\\Djwar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin.lib.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Djwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin.DialogBox.core\\AuxWin.DialogBox.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin.DialogBox.core\\AuxWin.DialogBox.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin32Lib.core\\AuxWin32Lib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin32Lib.core\\AuxWin32Lib.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin32Lib.core\\AuxWin32Lib.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin32Lib.core\\AuxWin32Lib.core.csproj",
+        "projectName": "audiamus.aux.w32.core",
+        "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin32Lib.core\\AuxWin32Lib.core.csproj",
+        "packagesPath": "C:\\Users\\Djwar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin32Lib.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Djwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\SystemMgmt.core\\SystemMgmt.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\SystemMgmt.core\\SystemMgmt.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Win32.Registry": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\BooksDatabase.core\\BooksDatabase.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\BooksDatabase.core\\BooksDatabase.core.csproj",
+        "projectName": "audiamus.booksdb.core",
+        "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\BooksDatabase.core\\BooksDatabase.core.csproj",
+        "packagesPath": "C:\\Users\\Djwar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\BooksDatabase.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Djwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\CommonTypes.lib.core\\CommonTypes.lib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\CommonTypes.lib.core\\CommonTypes.lib.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\CommonTypes.lib.core\\CommonTypes.lib.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\CommonTypes.lib.core\\CommonTypes.lib.core.csproj",
+        "projectName": "audiamus.common.types.core",
+        "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\CommonTypes.lib.core\\CommonTypes.lib.core.csproj",
+        "packagesPath": "C:\\Users\\Djwar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\CommonTypes.lib.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Djwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\CommonUtil.lib.core\\CommonUtil.lib.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\CommonUtil.lib.core\\CommonUtil.lib.core.csproj",
+        "projectName": "audiamus.common.util.core",
+        "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\CommonUtil.lib.core\\CommonUtil.lib.core.csproj",
+        "packagesPath": "C:\\Users\\Djwar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\CommonUtil.lib.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Djwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin32Lib.core\\AuxWin32Lib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin32Lib.core\\AuxWin32Lib.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\TreeDecomposition.core\\TreeDecomposition.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\TreeDecomposition.core\\TreeDecomposition.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Connect.lib.core\\Connect.lib.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Connect.lib.core\\Connect.lib.core.csproj",
+        "projectName": "audiamus.connect.core",
+        "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Connect.lib.core\\Connect.lib.core.csproj",
+        "packagesPath": "C:\\Users\\Djwar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Connect.lib.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Djwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Audible.json.core\\Audible.json.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Audible.json.core\\Audible.json.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\BooksDatabase.core\\BooksDatabase.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\BooksDatabase.core\\BooksDatabase.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\CommonTypes.lib.core\\CommonTypes.lib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\CommonTypes.lib.core\\CommonTypes.lib.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\CommonUtil.lib.core\\CommonUtil.lib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\CommonUtil.lib.core\\CommonUtil.lib.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\SystemMgmt.core\\SystemMgmt.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\SystemMgmt.core\\SystemMgmt.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\TreeDecomposition.core\\TreeDecomposition.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\TreeDecomposition.core\\TreeDecomposition.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AAXClean": {
+              "target": "Package",
+              "version": "[0.4.9, )"
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.54, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Connect.ui.lib.core\\Connect.ui.lib.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Connect.ui.lib.core\\Connect.ui.lib.core.csproj",
+        "projectName": "audiamus.connect.ui.core",
+        "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Connect.ui.lib.core\\Connect.ui.lib.core.csproj",
+        "packagesPath": "C:\\Users\\Djwar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Connect.ui.lib.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Djwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin.lib.core\\AuxWin.lib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxWin.lib.core\\AuxWin.lib.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\BooksDatabase.core\\BooksDatabase.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\BooksDatabase.core\\BooksDatabase.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Connect.lib.core\\Connect.lib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\Connect.lib.core\\Connect.lib.core.csproj"
+              },
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\PropGridLib.core\\PropGridLib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\PropGridLib.core\\PropGridLib.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\PropGridLib.core\\PropGridLib.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\PropGridLib.core\\PropGridLib.core.csproj",
+        "projectName": "audiamus.aux.propgrid.core",
+        "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\PropGridLib.core\\PropGridLib.core.csproj",
+        "packagesPath": "C:\\Users\\Djwar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\PropGridLib.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Djwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\SystemMgmt.core\\SystemMgmt.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\SystemMgmt.core\\SystemMgmt.core.csproj",
+        "projectName": "audiamus.sysmgmt.core",
+        "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\SystemMgmt.core\\SystemMgmt.core.csproj",
+        "packagesPath": "C:\\Users\\Djwar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\SystemMgmt.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Djwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "System.Management": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\TreeDecomposition.core\\TreeDecomposition.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\TreeDecomposition.core\\TreeDecomposition.core.csproj",
+        "projectName": "audiamus.aux.treedecomp.core",
+        "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\TreeDecomposition.core\\TreeDecomposition.core.csproj",
+        "packagesPath": "C:\\Users\\Djwar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\TreeDecomposition.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Djwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj": {
+                "projectPath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\AuxLib.core\\AuxLib.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4n6B5WzYdtk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Djwar\\source\\repos\\BookLibConnect\\src\\SystemMgmt.core\\SystemMgmt.core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Djwar\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
+    "C:\\Users\\Djwar\\.nuget\\packages\\system.management\\9.0.0\\system.management.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

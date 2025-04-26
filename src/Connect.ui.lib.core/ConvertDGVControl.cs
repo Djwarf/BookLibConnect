@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Resources;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -40,6 +41,7 @@ namespace core.audiamus.connect.ui {
     public event EventHandler SelectionChanged;
     public event BoolEventHandler IdleChanged;
 
+    [JsonIgnore]
     public bool PartiallyDisabled {
       get => !panel1.Enabled;
       set {
@@ -52,6 +54,7 @@ namespace core.audiamus.connect.ui {
       }
     }
 
+    [JsonIgnore]
     public IAudibleApi AudibleApi {
       private get => _audibleApi;
       set {
@@ -60,6 +63,7 @@ namespace core.audiamus.connect.ui {
       }
     }
 
+    [JsonIgnore]
     public IDownloadSettings DownloadSettings {
       private get => _downloadSettings;
       set {
@@ -68,23 +72,14 @@ namespace core.audiamus.connect.ui {
       }
     }
 
+    [JsonIgnore]
     public IExportSettings ExportSettings { private get; set; }
 
     public bool IsIdle => BookLibForm is null && !(DataSourceDownload?.Any () ?? false);
 
     public IEnumerable<Conversion> SelectedConversions => _selectedConversions;
 
-    //public new bool Enabled {
-    //  get => base.Enabled;
-    //  set {
-    //    if (BookLibForm is not null)
-    //      BookLibForm.DownloadSelectEnabled = value;
-    //    base.Enabled = value;
-    //    if (!value)
-    //      snapshotSelection (true);
-    //  }
-    //}
-
+    [JsonIgnore]
     public bool DownloadOnlyMode {
       get => !btnAdd.Visible;
       set {

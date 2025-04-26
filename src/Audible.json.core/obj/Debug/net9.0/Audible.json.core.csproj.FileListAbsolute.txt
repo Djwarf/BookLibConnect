@@ -1,0 +1,16 @@
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\bin\Debug\net9.0\audiamus.audiible.json.core.deps.json
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\bin\Debug\net9.0\audiamus.audiible.json.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\bin\Debug\net9.0\audiamus.audiible.json.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\bin\Debug\net9.0\audiamus.aux.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\bin\Debug\net9.0\audiamus.aux.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\obj\Debug\net9.0\Audible.json.core.csproj.AssemblyReference.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\obj\Debug\net9.0\Audible.json.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\obj\Debug\net9.0\Audible.json.core.AssemblyInfoInputs.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\obj\Debug\net9.0\Audible.json.core.AssemblyInfo.cs
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\obj\Debug\net9.0\Audible.json.core.csproj.CoreCompileInputs.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\obj\Debug\net9.0\Audible.json.core.sourcelink.json
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\obj\Debug\net9.0\Audible..62F7F3CE.Up2Date
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\obj\Debug\net9.0\audiamus.audiible.json.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\obj\Debug\net9.0\refint\audiamus.audiible.json.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\obj\Debug\net9.0\audiamus.audiible.json.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\Audible.json.core\obj\Debug\net9.0\ref\audiamus.audiible.json.core.dll

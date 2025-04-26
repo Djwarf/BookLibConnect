@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using core.audiamus.aux;
@@ -43,6 +44,7 @@ namespace core.audiamus.connect.ui {
     public event BookSelectionChangedEventHandler BookDownloadSelectionChanged;
     public event ConversionUpdatedEventHandler ConversionUpdated;
 
+    [JsonIgnore]
     public bool DownloadSelectEnabled {
       get => bookLibdgvControl1.DownloadSelectEnabled;
       set => bookLibdgvControl1.DownloadSelectEnabled = value;

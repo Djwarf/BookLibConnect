@@ -1,0 +1,12 @@
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin.DialogBox.core\bin\Debug\net6.0-windows\audiamus.aux.win.dialogbox.core.deps.json
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin.DialogBox.core\bin\Debug\net6.0-windows\audiamus.aux.win.dialogbox.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin.DialogBox.core\bin\Debug\net6.0-windows\audiamus.aux.win.dialogbox.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin.DialogBox.core\obj\Debug\net6.0-windows\AuxWin.DialogBox.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin.DialogBox.core\obj\Debug\net6.0-windows\AuxWin.DialogBox.core.AssemblyInfoInputs.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin.DialogBox.core\obj\Debug\net6.0-windows\AuxWin.DialogBox.core.AssemblyInfo.cs
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin.DialogBox.core\obj\Debug\net6.0-windows\AuxWin.DialogBox.core.csproj.CoreCompileInputs.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin.DialogBox.core\obj\Debug\net6.0-windows\AuxWin.DialogBox.core.sourcelink.json
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin.DialogBox.core\obj\Debug\net6.0-windows\audiamus.aux.win.dialogbox.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin.DialogBox.core\obj\Debug\net6.0-windows\refint\audiamus.aux.win.dialogbox.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin.DialogBox.core\obj\Debug\net6.0-windows\audiamus.aux.win.dialogbox.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin.DialogBox.core\obj\Debug\net6.0-windows\ref\audiamus.aux.win.dialogbox.core.dll

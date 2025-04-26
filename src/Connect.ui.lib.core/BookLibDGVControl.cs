@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Resources;
+using System.Text.Json.Serialization;
 using System.Windows.Forms;
 
 using core.audiamus.aux;
@@ -43,8 +44,10 @@ namespace core.audiamus.connect.ui {
     public event EventHandler Close;
     public event EventHandler Resync;
 
+    [JsonIgnore]
     public IEnumerable<Book> Books { set => setDataSource (value); }
 
+    [JsonIgnore]
     public IDownloadSettings Settings {
       private get => _settings;
       set {
@@ -53,6 +56,7 @@ namespace core.audiamus.connect.ui {
       }
     }
 
+    [JsonIgnore]
     public bool DownloadSelectEnabled {
       get => panelDownloadSelect.Enabled;
       set => panelDownloadSelect.Enabled = value;

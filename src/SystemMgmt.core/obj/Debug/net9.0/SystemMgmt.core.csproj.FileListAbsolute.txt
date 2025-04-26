@@ -1,0 +1,13 @@
+C:\Users\Djwar\source\repos\BookLibConnect\src\SystemMgmt.core\bin\Debug\net9.0\audiamus.sysmgmt.core.deps.json
+C:\Users\Djwar\source\repos\BookLibConnect\src\SystemMgmt.core\bin\Debug\net9.0\audiamus.sysmgmt.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\SystemMgmt.core\bin\Debug\net9.0\audiamus.sysmgmt.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\SystemMgmt.core\obj\Debug\net9.0\SystemMgmt.core.csproj.AssemblyReference.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\SystemMgmt.core\obj\Debug\net9.0\SystemMgmt.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djwar\source\repos\BookLibConnect\src\SystemMgmt.core\obj\Debug\net9.0\SystemMgmt.core.AssemblyInfoInputs.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\SystemMgmt.core\obj\Debug\net9.0\SystemMgmt.core.AssemblyInfo.cs
+C:\Users\Djwar\source\repos\BookLibConnect\src\SystemMgmt.core\obj\Debug\net9.0\SystemMgmt.core.csproj.CoreCompileInputs.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\SystemMgmt.core\obj\Debug\net9.0\SystemMgmt.core.sourcelink.json
+C:\Users\Djwar\source\repos\BookLibConnect\src\SystemMgmt.core\obj\Debug\net9.0\audiamus.sysmgmt.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\SystemMgmt.core\obj\Debug\net9.0\refint\audiamus.sysmgmt.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\SystemMgmt.core\obj\Debug\net9.0\audiamus.sysmgmt.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\SystemMgmt.core\obj\Debug\net9.0\ref\audiamus.sysmgmt.core.dll

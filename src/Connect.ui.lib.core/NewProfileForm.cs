@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
+using System.Text.Json.Serialization;
 using System.Windows.Forms;
 using core.audiamus.aux;
 using core.audiamus.aux.ex;
@@ -34,6 +35,7 @@ namespace core.audiamus.connect.ui {
     private readonly AffineSynchronizationContext _sync;
     private AudibleClient Client { get; }
 
+    [JsonIgnore]
     public IProfileKeyEx ProfileKey { get; private set; }
 
     public NewProfileForm (AudibleClient client, IEnumerable<IProfileKeyEx> profiles) {

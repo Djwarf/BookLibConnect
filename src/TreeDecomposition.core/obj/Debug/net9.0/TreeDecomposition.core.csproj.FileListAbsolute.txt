@@ -1,0 +1,16 @@
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\bin\Debug\net9.0\audiamus.aux.treedecomp.core.deps.json
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\bin\Debug\net9.0\audiamus.aux.treedecomp.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\bin\Debug\net9.0\audiamus.aux.treedecomp.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\bin\Debug\net9.0\audiamus.aux.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\bin\Debug\net9.0\audiamus.aux.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\obj\Debug\net9.0\TreeDecomposition.core.csproj.AssemblyReference.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\obj\Debug\net9.0\TreeDecomposition.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\obj\Debug\net9.0\TreeDecomposition.core.AssemblyInfoInputs.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\obj\Debug\net9.0\TreeDecomposition.core.AssemblyInfo.cs
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\obj\Debug\net9.0\TreeDecomposition.core.csproj.CoreCompileInputs.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\obj\Debug\net9.0\TreeDecomposition.core.sourcelink.json
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\obj\Debug\net9.0\TreeDeco.8F00771C.Up2Date
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\obj\Debug\net9.0\audiamus.aux.treedecomp.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\obj\Debug\net9.0\refint\audiamus.aux.treedecomp.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\obj\Debug\net9.0\audiamus.aux.treedecomp.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\TreeDecomposition.core\obj\Debug\net9.0\ref\audiamus.aux.treedecomp.core.dll

@@ -4,9 +4,11 @@ using System.Drawing;
 using System.Windows.Forms;
 using core.audiamus.aux;
 using core.audiamus.aux.win;
+using System.ComponentModel;
+using System.Text.Json.Serialization;
 
 namespace core.audiamus.connect.ui {
-  class DataGridViewEx : DataGridView, ISortingEvents {
+  class DataGridViewEx : DataGridView, ISortingEvents, INotifyPropertyChanged {
 
     private readonly Timer _timer1 = new Timer ();
     private readonly Timer _timer2 = new Timer ();
@@ -15,24 +17,33 @@ namespace core.audiamus.connect.ui {
     private bool _sortEndedVertPosSet;
     private int? _sortColumnRelX;
     private bool _clientAreaEnabled = true;
+    private bool _beenSorting;
 
     public event EventHandler BeginSorting;
     public event EventHandler EndSorting;
     public event EventHandler SortingCompleteToSetVerticalPosition;
+    public event PropertyChangedEventHandler PropertyChanged;
 
-    public new ISortableBindingList DataSource {
-      get => base.DataSource as ISortableBindingList;
-      set {
-        base.DataSource = value;
-        value.BeginSorting += dataSource_BeginSorting;
-        value.EndSorting += dataSource_EndSorting;
-      }
+    [Browsable(false)]
+    [EditorBrowsable(EditorBrowsableState.Never)]
+    [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
+    [JsonIgnore]
+    public new object DataSource {
+      get => base.DataSource;
+      set => base.DataSource = value;
     }
 
+    [Browsable(true)]
+    [DefaultValue(true)]
+    [EditorBrowsable(EditorBrowsableState.Always)]
+    [JsonIgnore]
     public bool ClientAreaEnabled {
       get => _clientAreaEnabled;
       set {
+        if (_clientAreaEnabled == value)
+          return;
         _clientAreaEnabled = value;
+        PropertyChanged?.Invoke (this, new PropertyChangedEventArgs (nameof (ClientAreaEnabled)));
         var color = value ? SystemColors.ControlText : SystemColors.GrayText;
         DefaultCellStyle.ForeColor = color;
         DefaultCellStyle.SelectionForeColor = color;

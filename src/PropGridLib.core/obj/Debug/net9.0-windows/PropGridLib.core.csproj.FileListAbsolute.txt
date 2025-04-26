@@ -1,0 +1,12 @@
+C:\Users\Djwar\source\repos\BookLibConnect\src\PropGridLib.core\bin\Debug\net9.0-windows\audiamus.aux.propgrid.core.deps.json
+C:\Users\Djwar\source\repos\BookLibConnect\src\PropGridLib.core\bin\Debug\net9.0-windows\audiamus.aux.propgrid.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\PropGridLib.core\bin\Debug\net9.0-windows\audiamus.aux.propgrid.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\PropGridLib.core\obj\Debug\net9.0-windows\PropGridLib.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djwar\source\repos\BookLibConnect\src\PropGridLib.core\obj\Debug\net9.0-windows\PropGridLib.core.AssemblyInfoInputs.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\PropGridLib.core\obj\Debug\net9.0-windows\PropGridLib.core.AssemblyInfo.cs
+C:\Users\Djwar\source\repos\BookLibConnect\src\PropGridLib.core\obj\Debug\net9.0-windows\PropGridLib.core.csproj.CoreCompileInputs.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\PropGridLib.core\obj\Debug\net9.0-windows\PropGridLib.core.sourcelink.json
+C:\Users\Djwar\source\repos\BookLibConnect\src\PropGridLib.core\obj\Debug\net9.0-windows\audiamus.aux.propgrid.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\PropGridLib.core\obj\Debug\net9.0-windows\refint\audiamus.aux.propgrid.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\PropGridLib.core\obj\Debug\net9.0-windows\audiamus.aux.propgrid.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\PropGridLib.core\obj\Debug\net9.0-windows\ref\audiamus.aux.propgrid.core.dll

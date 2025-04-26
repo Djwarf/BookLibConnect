@@ -1,0 +1,16 @@
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\bin\Debug\net9.0\audiamus.aux.w32.core.deps.json
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\bin\Debug\net9.0\audiamus.aux.w32.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\bin\Debug\net9.0\audiamus.aux.w32.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\bin\Debug\net9.0\audiamus.sysmgmt.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\bin\Debug\net9.0\audiamus.sysmgmt.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\obj\Debug\net9.0\AuxWin32Lib.core.csproj.AssemblyReference.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\obj\Debug\net9.0\AuxWin32Lib.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\obj\Debug\net9.0\AuxWin32Lib.core.AssemblyInfoInputs.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\obj\Debug\net9.0\AuxWin32Lib.core.AssemblyInfo.cs
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\obj\Debug\net9.0\AuxWin32Lib.core.csproj.CoreCompileInputs.cache
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\obj\Debug\net9.0\AuxWin32Lib.core.sourcelink.json
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\obj\Debug\net9.0\AuxWin32.CBEFB2A9.Up2Date
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\obj\Debug\net9.0\audiamus.aux.w32.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\obj\Debug\net9.0\refint\audiamus.aux.w32.core.dll
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\obj\Debug\net9.0\audiamus.aux.w32.core.pdb
+C:\Users\Djwar\source\repos\BookLibConnect\src\AuxWin32Lib.core\obj\Debug\net9.0\ref\audiamus.aux.w32.core.dll
